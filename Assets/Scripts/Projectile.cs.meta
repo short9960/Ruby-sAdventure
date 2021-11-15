@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 5c6e14dc8ab0eee4a9c8ecea214e9467
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - dialogBoxWin: {fileID: 8451419800689475559, guid: 39ae4e8d6b0a2ab4c8172677152349a9, type: 3}
+  - hitSound: {fileID: 8300000, guid: ae904c7305df7344d86b2092c0cb3a26, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
